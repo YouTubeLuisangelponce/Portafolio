@@ -1,4 +1,5 @@
 import "./Inicio.css";
+import img from "../../../public/img/coding.png";
 
 function Inicio() {
   return (
@@ -11,7 +12,7 @@ function Inicio() {
         </h5>
       </div>
       <div className="img">
-        <img src="/public/img/coding.png" alt="img" />
+        <img src={img} alt="img" />
       </div>
     </div>
   );
