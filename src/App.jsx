@@ -1,5 +1,5 @@
-import Heder from "./Comonets/Heder";
-import Inicio from "./Comonets/Inicio";
+import Heder from "./Components/Heder";
+import Inicio from "./Components/Inicio";
 
 function App() {
   return (

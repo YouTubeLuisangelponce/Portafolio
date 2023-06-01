@@ -11,7 +11,10 @@ function Inicio() {
         </h5>
       </div>
       <div className="img">
-        <img src="../../public/img/coding.png" alt="img" />
+        <img
+          src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeZviLMEiGyi55xgDmloV1oSgTsHwnn5kLPafuFzcxmNS0XYH9"
+          alt="img"
+        />
       </div>
     </div>
   );
