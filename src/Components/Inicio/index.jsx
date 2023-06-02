@@ -1,5 +1,5 @@
 import "./Inicio.css";
-import img from "../../../public/img/coding.png";
+import img from "/public/asset/img/coding.png";
 
 function Inicio() {
   return (
