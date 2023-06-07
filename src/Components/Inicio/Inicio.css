@@ -5,3 +5,10 @@
 .text {
   margin: 5em;
 }
+
+@media (max-width: 800px) {
+  .container-inicio {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}

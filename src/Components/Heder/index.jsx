@@ -3,7 +3,7 @@ import "./Heder.css";
 function Heder() {
   return (
     <>
-      <nav className="navbar navbar-expand-lg navbar-expand-sm fixed-top mt-2 p-2 w-1">
+      <nav className="navbar navbar-expand fixed-top mt-2">
         <div className="container-fluid">
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">

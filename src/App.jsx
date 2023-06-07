@@ -1,3 +1,4 @@
+import Contacto from "./Components/Contacto";
 import Habilidades from "./Components/Habilidades";
 import Heder from "./Components/Heder";
 import Inicio from "./Components/Inicio";
@@ -10,6 +11,7 @@ function App() {
       <Inicio />
       <Proyects />
       <Habilidades />
+      <Contacto />
     </>
   );
 }

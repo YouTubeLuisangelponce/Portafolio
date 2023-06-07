@@ -6,7 +6,7 @@ function Habilidades() {
       id="Habilidades"
       className="containerhabilidades d-flex aling-items-center justify-content-center flex-wrap mt-5 p-5"
     >
-      <h1 className="habilidades">Habilidades</h1>
+      <h1 className="titulo">Habilidades</h1>
       <div className="contenedorHabilidades d-flex">
         <div className="container">
           <img
