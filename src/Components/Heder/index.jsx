@@ -20,7 +20,7 @@ function Heder() {
                 <a
                   className="nav-link active text-light"
                   aria-current="page"
-                  href="#"
+                  href="#Proyectos"
                 >
                   Proyectos
                 </a>
@@ -29,7 +29,7 @@ function Heder() {
                 <a
                   className="nav-link active text-light"
                   aria-current="page"
-                  href="#"
+                  href="#Habilidades"
                 >
                   Habilidades
                 </a>
@@ -38,7 +38,7 @@ function Heder() {
                 <a
                   className="nav-link active text-light"
                   aria-current="page"
-                  href="#"
+                  href="#Contacto"
                 >
                   Contacto
                 </a>

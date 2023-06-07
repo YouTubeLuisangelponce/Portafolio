@@ -6,7 +6,7 @@ import proyecto4 from "/public/asset/proyects/proyecto4.png";
 
 function Proyects() {
   return (
-    <>
+    <div id="Proyectos">
       <h1 className="title text-center">Proyectos</h1>
       <div className="proyect d-flex d-inline-flex flex-wrap justify-content-center">
         <a href="sdfs">
@@ -34,7 +34,7 @@ function Proyects() {
           </div>
         </a>
       </div>
-    </>
+    </div>
   );
 }
 
